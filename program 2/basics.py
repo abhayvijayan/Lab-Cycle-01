@@ -68,6 +68,3 @@ for i in range(num + 1):
         break
 
     print(i)
-
-    
-    
