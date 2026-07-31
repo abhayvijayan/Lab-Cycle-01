@@ -1,6 +1,6 @@
 # 🐍 Python Programming Lab – Cycle I
 
-This repository contains solutions and practice programs for **Cycle I** of the Python Programming Lab. The exercises cover Python fundamentals, file handling, NumPy, Pandas, Matplotlib, and Scikit-learn.
+This repository contains solutions and practice programs for **Cycle I** of the Machine learning Lab for the completion of Post graduate in Computer Science with specialization in Machine Learning. The exercises cover Python fundamentals, file handling, NumPy, Pandas, Matplotlib, and Scikit-learn.
 
 ---
 
