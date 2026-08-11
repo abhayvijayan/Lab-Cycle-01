@@ -32,6 +32,6 @@ def change_case(func) :
 
 @change_case
 def hello_world() :
-    return "hello World"
+    return "Hello World!"
 
 print(hello_world())
